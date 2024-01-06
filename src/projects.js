@@ -20,28 +20,9 @@ export const projects = [
     image: "https://i.ibb.co/VHWc4pk/Kalakari.png",
     link: "https://shaily5.github.io/Kalakari/",
   },
+
   {
-    _id: "4",
-    title: "Pottervrese",
-    typo: 'Front End',
-    content:
-      "Itchy eyes can be triggered by exposure to pollen, animal fur, mould, dust mites, make-up or eye drops.",
-    category: "React.js, Javascript, TailwindCSS  ",
-    image: main,
-    link: "https://github.com/shaily5/Potterverse",
-  },
-  {
-    _id: "5",
-    title: "Music Recommender",
-    typo: 'Python',
-    content:
-      "Itchy eyes can be triggered by exposure to pollen, animal fur, mould, dust mites, make-up or eye drops.",
-    category: "React.js, Javascript, TailwindCSS  ",
-    image: "",
-    link: "https://github.com/shaily5/MusicRecommender",
-  },
-  {
-    _id: "6",
+    _id: "3",
     title: "Aspiring Minds",
     typo: 'Full Stack',
     content:
@@ -51,7 +32,17 @@ export const projects = [
     link: "https://github.com/shaily5/AspiringMinds/",
   },
   {
-    _id: "7",
+    _id: "4",
+    title: "Music Recommender",
+    typo: 'Python',
+    content:
+      "Itchy eyes can be triggered by exposure to pollen, animal fur, mould, dust mites, make-up or eye drops.",
+    category: "React.js, Javascript, TailwindCSS  ",
+    image: "",
+    link: "https://github.com/shaily5/MusicRecommender",
+  },
+  {
+    _id: "5",
     title: "Global Search Engine",
     typo: 'Java',
     content:
@@ -61,7 +52,7 @@ export const projects = [
     link: "https://github.com/shaily5/GlobalSearchEngine",
   },
   {
-    _id: "8",
+    _id: "6",
     title: "Blogging App",
     typo: 'Front End',
     content:
