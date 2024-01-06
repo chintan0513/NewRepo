@@ -1,4 +1,8 @@
-import main from "./assets/Pottervrese.png";
+import AspiringMinds from '../src/assets/Aspiring Minds.jpg';
+import MusicRecommendation from '../src/assets/Music Recommendation.jpg';
+import Gse from '../src/assets/Gse.jpg';
+import BlogApp from '../src/assets/BlogApp.jpg';
+
 export const projects = [
   {
     _id: "1",
@@ -28,7 +32,7 @@ export const projects = [
     content:
       "A new Flutter project. ",
     category: "React.js, Javascript, TailwindCSS  ",
-    image: "",
+    image: AspiringMinds,
     link: "https://github.com/shaily5/AspiringMinds/",
   },
   {
@@ -38,7 +42,7 @@ export const projects = [
     content:
       "Itchy eyes can be triggered by exposure to pollen, animal fur, mould, dust mites, make-up or eye drops.",
     category: "React.js, Javascript, TailwindCSS  ",
-    image: "",
+    image: MusicRecommendation,
     link: "https://github.com/shaily5/MusicRecommender",
   },
   {
@@ -48,7 +52,7 @@ export const projects = [
     content:
       "A search engine is a tool that helps users to find information from the web. For the user,the search engine returns the most accurate matches from the internet. The project covered concepts like web crawling, handling HTML files, website searching, frequency analysis, and pattern evaluation.",
     category: "Java",
-    image: "Java",
+    image: Gse,
     link: "https://github.com/shaily5/GlobalSearchEngine",
   },
   {
@@ -58,7 +62,7 @@ export const projects = [
     content:
       "Created a Blog App using Node.js and Express.js with MongoDB that allows users to create, update, and delete blogs, as well as users add, update, and delete comments on those blogs.",
     category: "React.js, Javascript, TailwindCSS  ",
-    image: "",
+    image: BlogApp,
     link: "https://github.com/shaily5/BloggingPlatform",
   }
 ];

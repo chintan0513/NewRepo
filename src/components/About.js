@@ -19,13 +19,13 @@ const About = () => {
                     </div>
                     <div className="social-media">
                         <div className='link-group'>
-                            <a href='https://www.instagram.com/shailyy5/' rel="noreferrer" target="_blank"><BsInstagram /></a>
+                            <a href='https://www.instagram.com/_srushty_patel/' rel="noreferrer" target="_blank"><BsInstagram /></a>
                         </div>
                         <div className='link-group'>
-                            <a href='https://github.com/shaily5' rel="noreferrer" target="_blank"><BsGithub /></a>
+                            <a href='https://github.com/srushtyp05' rel="noreferrer" target="_blank"><BsGithub /></a>
                         </div>
                         <div className='link-group'>
-                            <a href='https://www.linkedin.com/in/shaily5/' rel="noreferrer" target="_blank"><BsLinkedin /></a>
+                            <a href='https://www.linkedin.com/in/srushtyp05/' rel="noreferrer" target="_blank"><BsLinkedin /></a>
                         </div>
                     </div>
                 </div>
