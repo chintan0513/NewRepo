@@ -12,7 +12,7 @@ export const projects = [
       "Created a live medical chatbot using HTML, CSS, Bootstrap, Tailwind, and the MERN stack (MongoDB, Express, React, Node.js). This intelligent chatbot assists users in resolving their medical queries, provides suggestions regarding suitable medications for various health conditions.      ",
     category: "MERN stack React",
     image: "https://i.ibb.co/n1pT7f2/Chat-Bot-App.png",
-    link: "https://github.com/shaily5/MedicalChatbot"
+    link: "https://github.com/srushtyp05/MedicalChatbot"
   },
   {
     _id: "2",
@@ -33,7 +33,7 @@ export const projects = [
       "A new Flutter project. ",
     category: "React.js, Javascript, TailwindCSS  ",
     image: AspiringMinds,
-    link: "https://github.com/shaily5/AspiringMinds/",
+    link: "https://github.com/srushtyp05/AspiringMinds",
   },
   {
     _id: "4",
@@ -43,7 +43,7 @@ export const projects = [
       "Itchy eyes can be triggered by exposure to pollen, animal fur, mould, dust mites, make-up or eye drops.",
     category: "React.js, Javascript, TailwindCSS  ",
     image: MusicRecommendation,
-    link: "https://github.com/shaily5/MusicRecommender",
+    link: "https://github.com/srushtyp05/MusicRecommendationSystem",
   },
   {
     _id: "5",
@@ -53,7 +53,7 @@ export const projects = [
       "A search engine is a tool that helps users to find information from the web. For the user,the search engine returns the most accurate matches from the internet. The project covered concepts like web crawling, handling HTML files, website searching, frequency analysis, and pattern evaluation.",
     category: "Java",
     image: Gse,
-    link: "https://github.com/shaily5/GlobalSearchEngine",
+    link: "https://github.com/srushtyp05/GlobalSearchEngine",
   },
   {
     _id: "6",
@@ -63,7 +63,7 @@ export const projects = [
       "Created a Blog App using Node.js and Express.js with MongoDB that allows users to create, update, and delete blogs, as well as users add, update, and delete comments on those blogs.",
     category: "React.js, Javascript, TailwindCSS  ",
     image: BlogApp,
-    link: "https://github.com/shaily5/BloggingPlatform",
+    link: "https://github.com/srushtyp05/BloggingPlatform",
   }
 ];
 
